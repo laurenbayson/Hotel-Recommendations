@@ -20,4 +20,4 @@ When planning a vacation, temperature and weather is a top factor. This program 
     - Example input – Minimum Temp: 80F and Maximum Temp: 110F
  * Creates visual Google Earth map that pins the listed cities and hotels
  <img src="https://github.com/laurenbayson/Hotel-Recommendations/blob/main/Figures/hotel%20data.png" width="650" height="500">
- <img src = "https://github.com/laurenbayson/Hotel-Recommendations/blob/main/map%20(1).png"width="550"height="300">
+ <img src = "https://github.com/laurenbayson/Hotel-Recommendations/blob/main/Figures/map%20(1).png"width="550"height="300">

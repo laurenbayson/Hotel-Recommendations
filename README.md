@@ -1,4 +1,5 @@
 # Hotel-Recommendations
+When planning a vacation, temperature and weather is a top factor. This program will ask for the desired temperature the user wishes their vacation destination to be, and it will create a list of cities and hotels within their desired temperature range!
 ## [Weather Analysis](https://github.com/laurenbayson/Hotel-Recommendations/blob/main/weather_analysis.ipynb): 
 * Gather Weather data from *OpenWeatherMap API*
 * **Plotting:** Latitude against Maximum Temperature, Humidity, Cloudiness and Wind Speed

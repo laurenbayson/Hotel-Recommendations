@@ -18,3 +18,4 @@
  * Lists hotels within desired temperature using *Google Maps API*
     - Example input – Minimum Temp: 80F and Maximum Temp: 110F
  <img src="https://github.com/laurenbayson/Hotel-Recommendations/blob/main/Figures/hotel%20data.png" width="650" height="500">
+ <img src = "https://github.com/laurenbayson/Hotel-Recommendations/blob/main/map%20(1).png">
